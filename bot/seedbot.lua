@@ -224,7 +224,8 @@ function create_config( )
     "invite",
     "all",
     "leave_ban",
-    "admin"
+   "admin"
+   "linkpv"
     },
     sudo_users = {90971889,121739745,170712721,112703661},--Sudo users
     disabled_channels = {},
@@ -350,6 +351,8 @@ Demote someone
 
 !kickme
 Will kick user
+
+!linkpy
 
 !about
 Group description
